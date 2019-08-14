@@ -1,2 +1,2 @@
 # vuecli3-ts
-vueCli3加入TypeScript
+vueCli3配合TypeScript
